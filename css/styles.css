@@ -99,3 +99,22 @@ padding-bottom: 3%;
 .btn{
   width: 100%;
 }
+#cta{
+  font-family: Montserrat;
+  font-weight: 900;
+  background-color: #FF4C68;
+  padding: 80px;
+  text-align: center;
+}
+#cta-heading{
+  font-family: Montserrat;
+  font-weight: 900;
+  text-align: center;
+  color: white;
+}
+#footer{
+  text-align: center;
+  font-size: 0.7rem;
+  padding-top: 10px;
+
+}
